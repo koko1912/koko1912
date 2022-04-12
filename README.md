@@ -1,4 +1,4 @@
-- ![image1](https://user-images.githubusercontent.com/89745007/163021524-59702773-dc72-41c0-8771-7d0a6bf4a060.png)
+![image1](https://user-images.githubusercontent.com/89745007/163021524-59702773-dc72-41c0-8771-7d0a6bf4a060.png)
 
 
 ![koko1912's GitHub stats](https://github-readme-stats.vercel.app/api?username=koko1912&show_icons=true&theme=maroongold)
